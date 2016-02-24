@@ -1,6 +1,6 @@
 name       : vilistextum
 version    : 2.6.9
-release    : 1
+release    : 2
 source     :
     - http://bhaak.net/vilistextum/vilistextum-2.6.9.tar.bz2 : dddf05b4b9dbb408ea37b5654666f8cf57b5c1da0dd722de763bc86788723d0f
 license    : GPL-2.0
